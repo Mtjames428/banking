@@ -1,0 +1,22 @@
+Student Contribution
+
+Name: Alucard
+Course: Software Engineering, NIIT
+Branch: student-contribution
+Date: 26 November 2026
+
+Purpose
+This file is my contribution to the banking project as part of
+Practical Task 2 (Fork and Contribute to a Project).
+
+What I did
+- Forked the repository to my own GitHub account
+- Cloned my fork to my computer
+- Created a branch named student-contribution
+- Added this file to document my contribution
+
+Suggested improvements for the project
+- Add a README.md explaining what the project does and how to run it
+- Add input validation for deposits and withdrawals (no negative amounts)
+- Add a transaction history feature
+- Add unit tests for core banking operations.
