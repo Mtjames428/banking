@@ -1,0 +1,18 @@
+# Student Contribution
+
+## Project
+Banking Application
+
+## Contribution
+I have contributed documentation to the
+banking project as part of my GitHub
+learning assignment.
+
+## Purpose
+This document demonstrates my ability
+to fork a repository, create a branch,
+make changes, and contribute to a project.
+
+## Tools Used
+- GitHub
+- GitHub Desktop
